@@ -10,6 +10,26 @@ Takımlar, referans göstermek şartıyla istedikleri gibi kodlardan yararlanabi
 
 Yiğit Yıldırım - Team 33900A Programlama ekip başı
 
+İlerlemenizi takip etmek için;
+## 📈 Progress
+
+- [ ] Python Basics
+- [ ] Motors
+- [ ] Motor Groups
+- [ ] Drivetrain
+- [ ] Sensors
+- [ ] PID
+- [ ] Odometry
+- [ ] Autonomous
+- [ ] Pure Pursuit
+- [ ] OOP
+
+
+
+
+
+
+
 
 # VexV5_ProgrammingLibrary
 
