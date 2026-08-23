@@ -8,7 +8,7 @@ Bu repository hem öğrenme kursu hem de VEX V5 Python geliştirme için bir ba�
 
 Takımlar, referans göstermek şartıyla istedikleri gibi kodlardan yararlanabilir.
 
-Yiğit Yıldırım - Team 33900A Programlama ekip başı
+Yiğit Yıldırım - Team 33900A Programlama Kaptanı
 
 İlerlemenizi takip etmek için;
 ##  Progress
