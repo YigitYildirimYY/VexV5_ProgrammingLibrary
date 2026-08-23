@@ -11,7 +11,7 @@ Takımlar, referans göstermek şartıyla istedikleri gibi kodlardan yararlanabi
 Yiğit Yıldırım - Team 33900A Programlama ekip başı
 
 İlerlemenizi takip etmek için;
-## 📈 Progress
+##  Progress
 
 - [ ] Python Basics
 - [ ] Motors
@@ -24,7 +24,11 @@ Yiğit Yıldırım - Team 33900A Programlama ekip başı
 - [ ] Pure Pursuit
 - [ ] OOP
 
+## 🚀 Start Learning
 
+👉 [Start with Python Basics](./01_Python_Basics)
+
+👉 [View the Full Course](#course-structure)
 
 
 
