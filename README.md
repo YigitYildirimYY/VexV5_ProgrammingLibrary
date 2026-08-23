@@ -24,11 +24,17 @@ Yiğit Yıldırım - Team 33900A Programlama ekip başı
 - [ ] Pure Pursuit
 - [ ] OOP
 
+
 ## 🚀 Start Learning
 
-👉 [Start with Python Basics](./01_Python_Basics)
+**Python ile sıfırdan başlamak için:**
 
-👉 [View the Full Course](#course-structure)
+[Python Basics'e Başla](https://github.com/YigitYildirimYY/VexV5_ProgrammingLibrary/tree/main/01_PythonBasics)
+
+**Doğrudan VEX V5 programlama ile başlamak için:**
+
+[VEX V5 Fundamentals'a Başla](https://github.com/YigitYildirimYY/VexV5_ProgrammingLibrary/tree/main/02_VEX_FUNDAMENTALS)
+
 
 
 
