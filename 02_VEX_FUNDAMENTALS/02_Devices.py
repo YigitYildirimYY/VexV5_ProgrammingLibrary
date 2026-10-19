@@ -196,7 +196,7 @@ motor.stop()
 # Python'da fiziksel parçayı doğrudan kontrol etmiyoruz.
 # Önce o parçanın Python'daki device nesnesini oluşturuyor,
 # sonra o nesnenin methodlarını kullanıyoruz.
-#
+# KARTUŞ ORANLARI EKLENECEK MAVİ KIRMIZI YEŞİL
 # ============================================================
 # Ders 02 bitti, sıradaki derse geçebilirsiniz.
 # END OF 02 - DEVICES
