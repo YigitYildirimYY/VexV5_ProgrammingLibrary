@@ -157,11 +157,7 @@ print(auton_speed)
 
 brain = Brain()
 
-drive_motor = Motor(
-    Ports.PORT1,
-    GearSetting.RATIO_18_1,
-    False
-)
+drive_motor = Motor(Ports.PORT1, GearSetting.RATIO_18_1, False)
 
 DRIVE_SPEED = 50
 
