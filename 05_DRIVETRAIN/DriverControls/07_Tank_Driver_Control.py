@@ -40,7 +40,7 @@ while True:
 
     wait(20, MSEC)
 
-
+# Bu kod başlangıç seviyesi driver kontrolü kodudur. Çok bir şey beklemeyin :)
 # ============================================================
 # Ders 07 bitti, bir sonraki derse geçin.
 # END OF 07 - TANK DRIVER CONTROL
